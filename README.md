@@ -1,4 +1,4 @@
-#Simple Linear Regression Implementation
+# Simple Linear Regression Implementation
 
 ## Overview
 This repository contains Python implementation of Simle Linear Regression model using the gradient desceent algorithm. Here, I have focused on implementing the model from scratch without using libraries like scikit-learn.
